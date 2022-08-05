@@ -14,17 +14,8 @@
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
-    "@fortawesome/fontawesome-svg-core": "^6.1.1",
-    "@fortawesome/free-brands-svg-icons": "^6.1.1",
-    "@fortawesome/free-solid-svg-icons": "^6.1.1",
-    "@fortawesome/react-fontawesome": "^0.2.0",
-    "@hookform/error-message": "^2.0.0",
-    "@hookform/resolvers": "^2.9.5",
-    "@mui/icons-material": "^5.8.4",
-    "@mui/material": "^5.9.0",
     "@typescript-eslint/eslint-plugin": "^5.30.7",
     "@typescript-eslint/parser": "^5.30.7",
-    "axios": "^0.27.2",
     "env-cmd": "^10.1.0",
     "eslint-config-airbnb": "^19.0.4",
     "lodash": "^4.17.21",
@@ -32,10 +23,7 @@
     "next": "12.2.0",
     "prettier": "^2.7.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-hook-form": "^7.33.1",
-    "react-toastify": "^9.0.7",
-    "yup": "^0.32.11"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
